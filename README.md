@@ -39,10 +39,10 @@ Este projeto oferece uma visualização e simulação 3D interativa de um sistem
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/visualizacao-motor-refrigeracao.git
+git clone https://github.com/raifarias1991/simulador-de-refrigeração.git
 
 # Acesse o diretório do projeto
-cd visualizacao-motor-refrigeracao
+cd simulador-de-refrigeração
 
 # Instale as dependências
 npm install
