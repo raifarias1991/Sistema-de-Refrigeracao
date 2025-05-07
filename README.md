@@ -1,6 +1,4 @@
-# 🔧 Visualização de Motor de Refrigeração
-
-![Visualização de Motor de Refrigeração](https://simuladorderefrigeracao.vercel.app/)
+# 🔧 Simulador de Refrigeração
 
 ## 🌐 Visão Geral
 
