@@ -4,7 +4,7 @@
 
 Este projeto oferece uma visualização e simulação 3D interativa de um sistema de refrigeração com motor hermético. Ele apresenta um modelo detalhado e realista, com base em princípios físicos, permitindo a compreensão do funcionamento interno e o monitoramento em tempo real do desempenho do sistema.
 
-🔗 **Demo ao vivo:** [https://simuladorderefrigeracao.vercel.app/](https://simuladorderefrigeracao.vercel.app/)
+🔗 **Demo ao vivo:** [https://v0-sistema-de-refrigeracao.vercel.app/](https://v0-sistema-de-refrigeracao.vercel.app/)
 
 ## ✨ Principais Funcionalidades
 
