@@ -1,12 +1,12 @@
 # 🔧 Visualização de Motor de Refrigeração
 
-![Visualização de Motor de Refrigeração](https://v0-project-analysis-benefits-16.vercel.app/preview.png)
+![Visualização de Motor de Refrigeração](https://simuladorderefrigeracao.vercel.app/)
 
 ## 🌐 Visão Geral
 
 Este projeto oferece uma visualização e simulação 3D interativa de um sistema de refrigeração com motor hermético. Ele apresenta um modelo detalhado e realista, com base em princípios físicos, permitindo a compreensão do funcionamento interno e o monitoramento em tempo real do desempenho do sistema.
 
-🔗 **Demo ao vivo:** [https://v0-project-analysis-benefits-16.vercel.app/](https://v0-project-analysis-benefits-16.vercel.app/)
+🔗 **Demo ao vivo:** [https://v0-project-analysis-benefits-16.vercel.app/](https://simuladorderefrigeracao.vercel.app/)
 
 ## ✨ Principais Funcionalidades
 
